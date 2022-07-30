@@ -1,0 +1,9 @@
+─│┌┐┘└├ ┬ ┤┴
+
+body──┬─h1
+      └─#bookList──ul─┬─li──a──span───┬img.frame
+                      │               └span.hit
+                      ├─li──a──span───┬img.frame
+                      │               └span.hit            
+                      └─li──a──span───┬img.frame
+                                      └span.hit            
